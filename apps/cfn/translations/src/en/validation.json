@@ -1,0 +1,14 @@
+{
+   "asn-reference": {
+    "required": "What is the ASN reference",
+    "numeric": "ASN must only contain numbers"
+  },
+  "police-force": {
+    "required": "Select the name of a police force to notify",
+    "equal": "Select a police force from the list"
+  },
+  "originator-email": {
+    "required": "Enter your email address",
+    "email": "Your email address isn't valid, enter a valid email address"
+  }
+}

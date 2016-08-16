@@ -1,0 +1,17 @@
+{{<partials-page}}
+  {{$page-content}}
+    <div class="alert-complete" role="alert">
+      <span class="icon icon-complete" role="presentation"></span>
+      <div class="alert-message">
+        <h1>{{#t}}pages.confirmation.header{{/t}}</h1>
+      </div>
+    </div>
+    <p>{{#t}}pages.confirmation.content-copy-sent{{/t}} <strong>{{values.police-force}}</strong></p>
+    {{#input-submit}}start-again{{/input-submit}}
+    <hr>
+    <div>
+      <p><a href="https://eforms.homeoffice.gov.uk/outreach/Feedback.ofml?FormName=CourtFlaggingService/">{{#t}}pages.confirmation.content-feedback-link{{/t}}</a> {{#t}}pages.confirmation.content-feedback-time{{/t}} </p>
+
+    </div>
+  {{/page-content}}
+{{/partials-page}}

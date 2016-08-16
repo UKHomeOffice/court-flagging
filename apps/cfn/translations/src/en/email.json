@@ -1,0 +1,16 @@
+{
+  "content": {
+    "caseworker-intro": "Court Flagging form has been submitted, with details as follows:",
+    "customer-intro": "** Copy of the Court Flagging form that was sent with the following with details **"
+  },
+  "information": {
+    "subject": "Court Flagging Notification",
+    "enquiry": " "
+  },
+  "fields": {
+    "submission-date": "Form submission date",
+    "asn-reference": "Arrest Summons Notification",
+    "police-force": "Police Force",
+    "originator-email": "Originator's email address"
+  }
+}

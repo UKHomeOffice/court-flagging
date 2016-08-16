@@ -1,0 +1,30 @@
+#Headers
+email_header: 'What is your email address?'
+confirm_header: 'Is the information you have given us correct?'
+
+#Fields
+f_originator_email: 'originator-email'
+f_police_force: 'police-force'
+f_asn_reference: 'asn-reference'
+
+#Content
+c_free_text: 'Some free text words'
+c_asn_reference: '123456789'
+c_originator_email: 'james.bond@007.com'
+c_police_force: 'Metropolitan Police'
+
+confirmation_content: 'Thank you for using this service'
+confirmation_content_detail: 'We have sent you an email containing the information you have provided to'
+
+#Summary page table headers
+table_originator_email: "Your email address"
+table_police_force: "Police Force"
+table_asn_reference: "Arrest Summons Notification reference"
+
+#Errors
+general_error: 'Please fix the following error'
+email_error: 'Enter an email address'
+invalid_email_error: "The email address isn't valid, enter a valid email address"
+invalid_asn_reference_error: 'Must be numeric'
+police_force_missing_error: 'Enter a police force'
+police_force_invalid_error: 'Pick a police force from the list'

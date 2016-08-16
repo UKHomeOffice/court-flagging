@@ -1,0 +1,22 @@
+{
+    "details": {
+      "header": "Arrest Summons Notification Form"
+    },
+   "confirm": {
+    "header": "Is the information you have given us correct?",
+    "table": {
+      "headers": {
+        "details": "If any information is incorrect, you can change it here.",
+        "police-force": "Police Force",
+        "originator-email": "Your email address",
+        "asn-reference": "Arrest Summons Notification reference"
+        }
+    }
+  },
+  "confirmation": {
+    "header": "Thank you for using this service.",
+    "content-copy-sent": "We have sent you an email containing the information you have provided to ",
+    "content-feedback-link": "Tell us what you think of this form",
+    "content-feedback-time": "(takes 30 seconds)"
+  }
+}
