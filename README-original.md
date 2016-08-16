@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CFN (Court Flagging Notification)
 
 ## Getting Started
@@ -44,3 +45,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## License
 
 This project is licensed under the GPLv2 License - see the [LICENSE.md](LICENSE.md) file for details
+=======
+# court-flagging
+Web service for Court Flag Notifications
+>>>>>>> 85953f3c21d587096fbb21dfa64aa043b1625ed2
